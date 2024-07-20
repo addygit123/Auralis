@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <!-- Define the green circle -->
+  <circle cx="25" cy="25" r="25" fill="#1FDF63" />
+  <!-- Define the black play icon, positioned centrally -->
+  <polygon points="20,15 35,25 20,35" fill="#000000" />
+</svg>
